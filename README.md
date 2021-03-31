@@ -1,4 +1,8 @@
-# Py_n_Stats_for_Financial_Analysis_by_TheHongKongUni.
+Py n Stats for Financial Analysis 
+
+This repository contains all the assignments for the specialization "Python and Statistics for Financial Analysis" by The Hong Kong University on Coursera.
+
+Note: The material provided in this repository is only for helping those who may get stuck at any point of time in the course. It is strongly advised that no one should just copy the solutions(voilation of Coursera Honor Code) presented here.
 
 Getting started
 I find it useful to have the course contents for offline study. This may be controversial for some, the app enables downloading content for offline study. The annoying part is you still need to click through on the website to record progress.
